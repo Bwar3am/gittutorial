@@ -34,6 +34,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Afshin](https://github.com/iafshinafshin)
 - [Matin Sareban :guardsman:](https://github.com/Matinsareban)
 - [Hasan Zaki](https://github.com/Hasanzakii)
+- [barsam](https://github.com/amoobarsam)
 - [Mehrdad](https://zadehebrahim.ir)(https://github.com/mehrdad-za) 
 - [Hossein Aghabararian](https://github.com/Hossein-Bararian)
 - [Hosein Ghasemizade :octocat:](https://github.com/ghasemizade)
